@@ -45,7 +45,7 @@ int main()
 	double profitOfProduction;
 
 	// The greeting users will first see that informs them what the program does.
-	programGreeting = " Welcome to my Cheesy Program ";
+	programGreeting = " Greetings from my gouda program! ";
 	greetingLength = static_cast<int>(programGreeting.length()); // counts the characters within the message
 
 	//Calculations / preperations for the different size of borders 
