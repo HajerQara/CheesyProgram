@@ -12,3 +12,4 @@ Write a program that does the following:
 3) Outputs the cost of producing the cheese.
 4) Outputs the profit for producing cheese.
 
+The following program uses I/O manipulators. The program also uses various header files to use string functions, math functions, and formatting functions. 
